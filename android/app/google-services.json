@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "684342042374",
+    "project_id": "tawassol-new",
+    "storage_bucket": "tawassol-new.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:684342042374:android:cba2246a80fdf3dad1c887",
+        "android_client_info": {
+          "package_name": "com.tawassol"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDl46DLm1PrZGcI8obKSdLPPydAqVdgROU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
